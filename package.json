@@ -1,0 +1,22 @@
+{
+  "name": "TurnJS",
+  "version": "0.0.0",
+  "description": "A library for turn-based games.",
+  "main": "lib/TurnJS.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fkling/TurnJS.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Felix Kling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fkling/TurnJS/issues"
+  },
+  "dependencies": {
+    "q": "~0.9.6",
+    "node-uuid": "~1.4.1"
+  }
+}
